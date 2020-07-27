@@ -78,6 +78,11 @@
             <Insets left="-150.0" />
          </padding>
       </VBox>
+      <Label fx:id="mensajes1" alignment="CENTER" layoutX="339.0" layoutY="14.0" prefHeight="42.0" prefWidth="1159.0" text="Juego de Pedro Manuel Cubo Medina" textFill="#0b0b0b">
+         <font>
+            <Font name="Arial Bold Italic" size="18.0" />
+         </font>
+      </Label>
    </children>
    <padding>
       <Insets left="1800.0" top="1110.0" />
